@@ -4,12 +4,12 @@ amuleweb_SOURCES =  \
 	WebServer.cpp \
 	WebInterface.cpp \
 	WebSocket.cpp \
-	$(top_srcdir)/src/ExternalConnector.cpp \
-	$(top_srcdir)/src/OtherFunctions.cpp \
-	$(top_srcdir)/src/RLE.cpp \
-	$(top_srcdir)/src/NetworkFunctions.cpp \
-	$(top_srcdir)/src/LoggerConsole.cpp \
-	$(top_srcdir)/src/UPnPBase.cpp \
+	../../ExternalConnector.cpp \
+	../../OtherFunctions.cpp \
+	../../RLE.cpp \
+	../../NetworkFunctions.cpp \
+	../../LoggerConsole.cpp \
+	../../UPnPBase.cpp \
 	php_parser.c \
 	php_lexer.c \
 	php_syntree.cpp \
