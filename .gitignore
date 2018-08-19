@@ -1,0 +1,17 @@
+Makefile.in
+config.*
+ABOUT-NLS
+aclocal.m4
+autom4te.cache/
+compile
+configure
+depcomp
+install-sh
+intl/
+missing
+mkinstalldirs
+po/Makefile.in.in
+src/pixmaps/flags_xpm/CountryFlags.h
+src/pixmaps/flags_xpm/Makefile.am
+test-driver
+
